@@ -4,7 +4,7 @@
 #
 Name     : mvn-cdi-api
 Version  : 1.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
 Source0  : https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
 Source1  : https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
